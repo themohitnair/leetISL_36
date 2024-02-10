@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 #include<vector>
-#include<cstring>
+#include<string>
 #include<algorithm>
 using namespace std;
 
