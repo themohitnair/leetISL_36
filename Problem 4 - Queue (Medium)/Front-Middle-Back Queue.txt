@@ -44,3 +44,4 @@ Constraints:
     1 <= val <= 109
     At most 1000 calls will be made to pushFront, pushMiddle, pushBack, popFront, popMiddle, and popBack.
 
+Link - https://leetcode.com/problems/design-front-middle-back-queue/description/

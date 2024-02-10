@@ -27,3 +27,5 @@ Therefore, we return false.
 Constraints:
 
     4 <= n <= 105
+
+Link - https://leetcode.com/problems/strictly-palindromic-number/description/
